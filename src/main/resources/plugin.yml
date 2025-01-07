@@ -1,0 +1,8 @@
+name: CommandSender
+version: 1.0
+main: cs.sasukemc.CommandSender
+api-version: 1.16
+commands:
+  csreload:
+    description: Reloads the plugin configuration
+    usage: /csreload

@@ -1,0 +1,18 @@
+
+# _________                                           .___   _________                  .___
+# \_   ___ \  ____   _____   _____ _____    ____    __| _/  /   _____/ ____   ____    __| _/___________
+# /    \  \/ /  _ \ /     \ /     \\__  \  /    \  / __ |   \_____  \_/ __ \ /    \  / __ |/ __ \_  __ \
+# \     \___(  <_> )  Y Y  \  Y Y  \/ __ \|   |  \/ /_/ |   /        \  ___/|   |  \/ /_/ \  ___/|  | \/
+# \______  /\____/|__|_|  /__|_|  (____  /___|  /\____ |  /_______  /\___  >___|  /\____ |\___  >__|
+# \/             \/      \/     \/     \/      \/          \/     \/     \/      \/    \/
+
+# Unique plugin, developed by SasukeMC
+
+# This plugin is a simple plugin that allows you to send commands to the server console from the game chat.
+
+# The port on which the HTTP server will run.
+port: 4567
+
+# The password required to authenticate HTTP requests to execute commands.
+# Change this to a secure password to prevent unauthorized access.
+password: your_secure_password
